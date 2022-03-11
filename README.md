@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CarlyTheCoder
+- 👋 Hi, I’m @CarlyTheCoder. Full-stack developer fluent in Java and JavaScript.
 - 👀 I’m interested in tech that is focused on environmentalism.
-- 🌱 I’m currently learning Java, JavaScript, and Vue!
+- 🌱 I’m currently learning Python and excited about Machine Learning.
 - 💞️ I’m looking to collaborate on sustaiability projects.
 - 📫 Reach out on LinkedIn: www.linkedin.com/in/carlychabal
 
